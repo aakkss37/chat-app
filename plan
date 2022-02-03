@@ -1,0 +1,10 @@
+# PLAN
+[+] create NPM priject
+[+]create index, css, js, files
+[+]install dependancies.
+[+]create express server
+[-]do frontend part
+[-]install socket.io, setup socket.it in server.js and client.js
+[-]clint send message logic in client.js
+[-]recieve message on server and broadcast to all clients.
+[-]
